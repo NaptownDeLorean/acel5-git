@@ -4,4 +4,10 @@ vlan_list:
     name: DMZ
   - id: 20
     name: Internal
+<<<<<<< HEAD
 
+=======
+  - id: 30
+    name: Test
+    
+>>>>>>> 4eaa331d2b0904d2ed1c3c1ac73be259b8974e40
