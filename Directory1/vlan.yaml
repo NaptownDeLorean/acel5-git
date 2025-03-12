@@ -4,4 +4,4 @@ vlan_list:
     name: DMZ
   - id: 20
     name: Internal
-    
+
